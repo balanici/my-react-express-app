@@ -1,0 +1,3 @@
+Building a Full Stack App with React and Express course  from pluralsight
+
+current: Implementing React Components and Redux State - adding a dashboard component
